@@ -1,9 +1,9 @@
 # About
 This project dedicated to young specialists who want to have some practices in software development in technologies they wonder, or who want to build own team and create something incredible (or typical) 
 # Add project or idea
-Write a markdown file with a project or idea description following template. 
-Name file like `project_yyyyMMdd_${name}.md` (sorry for manual indexing).  
-Create a pull request to master. 
+1. Write a markdown file with a project or idea description following template.
+2. Name file like `yyyyMMdd_${name}.md` (sorry for manual indexing).
+3. Create a pull request to master. 
 # Template
 
 ```markdown
